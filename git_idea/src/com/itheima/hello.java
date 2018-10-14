@@ -8,4 +8,10 @@ public class hello {
         System.out.println("hello===========================111");
         System.out.println("hello===========================111");
     }
+
+    public void  test(){
+        System.out.println("hello==========22222222222222");
+        System.out.println("hello==========22222222222222");
+        System.out.println("hello==========22222222222222");
+    }
 }
